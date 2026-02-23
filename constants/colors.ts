@@ -1,0 +1,22 @@
+export default {
+  light: {
+    text: '#111827',
+    textSecondary: '#6B7280',
+    background: '#F8F9FB',
+    surface: '#FFFFFF',
+    surfaceElevated: '#FFFFFF',
+    tint: '#1D4ED8',
+    tintLight: '#EFF6FF',
+    accent: '#E05A47',
+    accentWarm: '#F59E0B',
+    border: '#D1D5DB',
+    borderLight: '#E5E7EB',
+    success: '#059669',
+    warning: '#D97706',
+    tabIconDefault: '#9CA3AF',
+    tabIconSelected: '#1D4ED8',
+    cardShadow: 'rgba(0, 0, 0, 0.05)',
+    voiceActive: '#DC2626',
+    voiceLight: '#FEF2F2',
+  },
+};
