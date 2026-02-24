@@ -22,7 +22,7 @@ export default function TabLayout() {
       }}
     >
       <Tabs.Screen
-        name="(home)"
+        name="dashboard"
         options={{
           title: "Practice",
           tabBarIcon: ({ color, size }) => <MessageSquare size={size} color={color} />,
